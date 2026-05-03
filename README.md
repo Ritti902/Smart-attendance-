@@ -318,7 +318,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Author**: Ritti902
 - **Repository**: [GitHub](https://github.com/Ritti902/Smart-attendance-)
 - **Issues**: [Report a Bug](https://github.com/Ritti902/Smart-attendance-/issues)
-- **Email**: [Your Email]
+- **Email**: [ritikachawla2006@gmail.com]
 
 ## 🙏 Acknowledgments
 
